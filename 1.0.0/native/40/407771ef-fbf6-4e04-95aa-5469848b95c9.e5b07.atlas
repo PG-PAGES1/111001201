@@ -1,0 +1,40 @@
+
+ks.png
+size: 1380,972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Free_Light_Effects/tw_vfx_a_add
+  rotate: true
+  xy: 950, 487
+  size: 483, 428
+  orig: 483, 428
+  offset: 0, 0
+  index: -1
+Free_Loading_And_Buttons/bl_char
+  rotate: false
+  xy: 2, 2
+  size: 946, 968
+  orig: 946, 968
+  offset: 0, 0
+  index: -1
+
+ks2.png
+size: 1330,1109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Free_Loading_And_Buttons/bl_a
+  rotate: true
+  xy: 679, 427
+  size: 680, 649
+  orig: 680, 649
+  offset: 0, 0
+  index: -1
+Win_Gold_Effect3/bl_coin
+  rotate: false
+  xy: 2, 2
+  size: 675, 1105
+  orig: 675, 1106
+  offset: 0, 0
+  index: -1

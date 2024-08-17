@@ -1,0 +1,738 @@
+
+bigwin.png
+size: 1989,1968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flame_Effect/bw_vfx_b_screen_00
+  rotate: false
+  xy: 2, 1964
+  size: 3, 2
+  orig: 389, 691
+  offset: 0, 689
+  index: -1
+Flame_Effect/bw_vfx_b_screen_24
+  rotate: false
+  xy: 2, 1964
+  size: 3, 2
+  orig: 389, 691
+  offset: 0, 689
+  index: -1
+Flame_Effect/bw_vfx_b_screen_01
+  rotate: true
+  xy: 194, 1875
+  size: 91, 109
+  orig: 389, 691
+  offset: 130, 252
+  index: -1
+Flame_Effect/bw_vfx_b_screen_02
+  rotate: true
+  xy: 455, 1391
+  size: 173, 243
+  orig: 389, 691
+  offset: 117, 215
+  index: -1
+Flame_Effect/bw_vfx_b_screen_03
+  rotate: true
+  xy: 700, 1348
+  size: 210, 300
+  orig: 389, 691
+  offset: 106, 188
+  index: -1
+Flame_Effect/bw_vfx_b_screen_04
+  rotate: true
+  xy: 1351, 1190
+  size: 280, 342
+  orig: 389, 691
+  offset: 67, 179
+  index: -1
+Screen_Effect/bw_vfx_d_screen_00
+  rotate: false
+  xy: 1695, 1178
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_01
+  rotate: false
+  xy: 2, 1163
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_02
+  rotate: false
+  xy: 296, 1097
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_03
+  rotate: false
+  xy: 590, 1054
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_04
+  rotate: false
+  xy: 884, 1004
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_05
+  rotate: false
+  xy: 1178, 896
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_06
+  rotate: false
+  xy: 1472, 884
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_07
+  rotate: false
+  xy: 2, 869
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_08
+  rotate: false
+  xy: 296, 803
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_09
+  rotate: false
+  xy: 590, 760
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_10
+  rotate: false
+  xy: 884, 710
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_11
+  rotate: false
+  xy: 1178, 602
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_12
+  rotate: false
+  xy: 1472, 590
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_13
+  rotate: false
+  xy: 2, 575
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_14
+  rotate: false
+  xy: 296, 509
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_15
+  rotate: false
+  xy: 590, 466
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_16
+  rotate: false
+  xy: 884, 416
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_17
+  rotate: false
+  xy: 1178, 308
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_18
+  rotate: false
+  xy: 1472, 296
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Screen_Effect/bw_vfx_d_screen_19
+  rotate: false
+  xy: 2, 281
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_00
+  rotate: true
+  xy: 1122, 1698
+  size: 134, 220
+  orig: 316, 399
+  offset: 91, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_01
+  rotate: true
+  xy: 1344, 1698
+  size: 134, 220
+  orig: 316, 399
+  offset: 91, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_02
+  rotate: true
+  xy: 1566, 1698
+  size: 134, 222
+  orig: 316, 399
+  offset: 91, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_03
+  rotate: true
+  xy: 905, 1560
+  size: 136, 225
+  orig: 316, 399
+  offset: 90, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_04
+  rotate: false
+  xy: 1585, 1472
+  size: 137, 224
+  orig: 316, 399
+  offset: 89, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_05
+  rotate: true
+  xy: 1132, 1560
+  size: 136, 225
+  orig: 316, 399
+  offset: 90, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_06
+  rotate: true
+  xy: 1297, 1834
+  size: 132, 224
+  orig: 316, 399
+  offset: 93, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_07
+  rotate: true
+  xy: 1080, 1836
+  size: 130, 215
+  orig: 316, 399
+  offset: 95, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_08
+  rotate: true
+  xy: 1523, 1834
+  size: 132, 215
+  orig: 316, 399
+  offset: 93, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_09
+  rotate: true
+  xy: 1740, 1834
+  size: 132, 216
+  orig: 316, 399
+  offset: 93, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_10
+  rotate: true
+  xy: 2, 1741
+  size: 132, 216
+  orig: 316, 399
+  offset: 93, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_11
+  rotate: true
+  xy: 220, 1741
+  size: 132, 222
+  orig: 316, 399
+  offset: 93, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_12
+  rotate: true
+  xy: 444, 1731
+  size: 132, 224
+  orig: 316, 399
+  offset: 93, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_13
+  rotate: true
+  xy: 2, 1605
+  size: 134, 225
+  orig: 316, 399
+  offset: 91, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_14
+  rotate: true
+  xy: 1359, 1560
+  size: 136, 224
+  orig: 316, 399
+  offset: 90, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_15
+  rotate: true
+  xy: 1724, 1472
+  size: 136, 224
+  orig: 316, 399
+  offset: 90, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_16
+  rotate: true
+  xy: 2, 1467
+  size: 136, 225
+  orig: 316, 399
+  offset: 90, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_17
+  rotate: true
+  xy: 229, 1457
+  size: 136, 224
+  orig: 316, 399
+  offset: 90, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_18
+  rotate: true
+  xy: 229, 1595
+  size: 134, 224
+  orig: 316, 399
+  offset: 91, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_19
+  rotate: true
+  xy: 455, 1576
+  size: 134, 224
+  orig: 316, 399
+  offset: 91, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_20
+  rotate: false
+  xy: 1790, 1610
+  size: 134, 222
+  orig: 316, 399
+  offset: 91, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_21
+  rotate: true
+  xy: 681, 1566
+  size: 134, 222
+  orig: 316, 399
+  offset: 91, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_22
+  rotate: true
+  xy: 670, 1712
+  size: 132, 224
+  orig: 316, 399
+  offset: 93, 84
+  index: -1
+Torch_Flame_Effect/ambient_vfx_a_screen_23
+  rotate: true
+  xy: 896, 1702
+  size: 132, 224
+  orig: 316, 399
+  offset: 93, 84
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_00
+  rotate: true
+  xy: 296, 172
+  size: 292, 393
+  orig: 292, 464
+  offset: 0, 17
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_01
+  rotate: true
+  xy: 691, 122
+  size: 292, 395
+  orig: 292, 464
+  offset: 0, 19
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_02
+  rotate: true
+  xy: 1470, 2
+  size: 292, 393
+  orig: 292, 464
+  offset: 0, 22
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_05
+  rotate: true
+  xy: 1088, 14
+  size: 292, 380
+  orig: 292, 464
+  offset: 0, 35
+  index: -1
+bw_b
+  rotate: false
+  xy: 305, 1875
+  size: 295, 91
+  orig: 302, 94
+  offset: 4, 3
+  index: -1
+bw_char
+  rotate: true
+  xy: 1002, 1298
+  size: 260, 347
+  orig: 260, 347
+  offset: 0, 0
+  index: -1
+mw_b
+  rotate: false
+  xy: 602, 1865
+  size: 255, 101
+  orig: 257, 103
+  offset: 2, 2
+  index: -1
+mw_c
+  rotate: false
+  xy: 7, 1886
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+smw_b
+  rotate: false
+  xy: 859, 1846
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+smw_d
+  rotate: false
+  xy: 98, 1880
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+
+bigwin2.png
+size: 1773,1978
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flame_Effect/bw_vfx_b_screen_08
+  rotate: true
+  xy: 1259, 868
+  size: 389, 461
+  orig: 389, 691
+  offset: 0, 132
+  index: -1
+Flame_Effect/bw_vfx_b_screen_17
+  rotate: false
+  xy: 1370, 300
+  size: 389, 566
+  orig: 389, 691
+  offset: 0, 61
+  index: -1
+Flame_Effect/bw_vfx_b_screen_18
+  rotate: false
+  xy: 588, 296
+  size: 389, 570
+  orig: 389, 691
+  offset: 0, 53
+  index: -1
+Flame_Effect/bw_vfx_b_screen_19
+  rotate: true
+  xy: 684, 868
+  size: 389, 573
+  orig: 389, 691
+  offset: 0, 49
+  index: -1
+Flame_Effect/bw_vfx_b_screen_20
+  rotate: false
+  xy: 979, 297
+  size: 389, 569
+  orig: 389, 691
+  offset: 0, 46
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_03
+  rotate: true
+  xy: 588, 2
+  size: 292, 395
+  orig: 292, 464
+  offset: 0, 16
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_04
+  rotate: true
+  xy: 985, 3
+  size: 292, 388
+  orig: 292, 464
+  offset: 0, 29
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_06
+  rotate: true
+  xy: 1375, 6
+  size: 292, 384
+  orig: 292, 464
+  offset: 0, 37
+  index: -1
+bw_a
+  rotate: true
+  xy: 1363, 1296
+  size: 680, 408
+  orig: 680, 408
+  offset: 0, 0
+  index: -1
+bw_vfx_a_screen
+  rotate: true
+  xy: 2, 227
+  size: 908, 584
+  orig: 908, 584
+  offset: 0, 0
+  index: -1
+mw_a
+  rotate: false
+  xy: 684, 1259
+  size: 677, 717
+  orig: 677, 717
+  offset: 0, 0
+  index: -1
+smw_a
+  rotate: false
+  xy: 2, 1137
+  size: 680, 839
+  orig: 680, 839
+  offset: 0, 0
+  index: -1
+
+bigwin3.png
+size: 1957,1724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flame_Effect/bw_vfx_b_screen_05
+  rotate: false
+  xy: 1625, 1346
+  size: 330, 376
+  orig: 389, 691
+  offset: 44, 170
+  index: -1
+Flame_Effect/bw_vfx_b_screen_06
+  rotate: true
+  xy: 902, 774
+  size: 360, 399
+  orig: 389, 691
+  offset: 28, 164
+  index: -1
+Flame_Effect/bw_vfx_b_screen_07
+  rotate: true
+  xy: 407, 92
+  size: 386, 429
+  orig: 389, 691
+  offset: 3, 149
+  index: -1
+Flame_Effect/bw_vfx_b_screen_09
+  rotate: true
+  xy: 838, 18
+  size: 389, 481
+  orig: 389, 691
+  offset: 0, 122
+  index: -1
+Flame_Effect/bw_vfx_b_screen_21
+  rotate: true
+  xy: 1321, 2
+  size: 387, 544
+  orig: 389, 691
+  offset: 1, 46
+  index: -1
+Flame_Effect/bw_vfx_b_screen_23
+  rotate: true
+  xy: 1362, 391
+  size: 365, 476
+  orig: 389, 691
+  offset: 9, 113
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_07
+  rotate: true
+  xy: 2, 1430
+  size: 292, 393
+  orig: 292, 464
+  offset: 0, 35
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_08
+  rotate: true
+  xy: 397, 1430
+  size: 292, 396
+  orig: 292, 464
+  offset: 0, 33
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_09
+  rotate: true
+  xy: 795, 1430
+  size: 292, 411
+  orig: 292, 464
+  offset: 0, 29
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_10
+  rotate: true
+  xy: 1208, 1430
+  size: 292, 415
+  orig: 292, 464
+  offset: 0, 27
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_11
+  rotate: true
+  xy: 2, 1136
+  size: 292, 444
+  orig: 292, 464
+  offset: 0, 14
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_12
+  rotate: true
+  xy: 448, 1136
+  size: 292, 443
+  orig: 292, 464
+  offset: 0, 21
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_13
+  rotate: true
+  xy: 893, 1136
+  size: 292, 434
+  orig: 292, 464
+  offset: 0, 18
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_14
+  rotate: true
+  xy: 1329, 1052
+  size: 292, 447
+  orig: 292, 464
+  offset: 0, 17
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_15
+  rotate: true
+  xy: 2, 842
+  size: 292, 448
+  orig: 292, 464
+  offset: 0, 16
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_16
+  rotate: true
+  xy: 452, 842
+  size: 292, 448
+  orig: 292, 464
+  offset: 0, 16
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_17
+  rotate: true
+  xy: 1303, 758
+  size: 292, 450
+  orig: 292, 464
+  offset: 0, 14
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_18
+  rotate: true
+  xy: 2, 548
+  size: 292, 450
+  orig: 292, 464
+  offset: 0, 14
+  index: -1
+Torch_Flame_Effect2/bw_vfx_g_screen_19
+  rotate: true
+  xy: 454, 480
+  size: 292, 449
+  orig: 292, 464
+  offset: 0, 15
+  index: -1
+mw_char
+  rotate: false
+  xy: 2, 168
+  size: 403, 378
+  orig: 403, 378
+  offset: 0, 0
+  index: -1
+smw_char
+  rotate: true
+  xy: 905, 409
+  size: 347, 455
+  orig: 347, 455
+  offset: 0, 0
+  index: -1
+
+bigwin4.png
+size: 1957,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flame_Effect/bw_vfx_b_screen_10
+  rotate: false
+  xy: 1566, 2
+  size: 389, 501
+  orig: 389, 691
+  offset: 0, 110
+  index: -1
+Flame_Effect/bw_vfx_b_screen_11
+  rotate: false
+  xy: 1566, 505
+  size: 389, 508
+  orig: 389, 691
+  offset: 0, 106
+  index: -1
+Flame_Effect/bw_vfx_b_screen_12
+  rotate: false
+  xy: 1175, 489
+  size: 389, 524
+  orig: 389, 691
+  offset: 0, 98
+  index: -1
+Flame_Effect/bw_vfx_b_screen_13
+  rotate: true
+  xy: 1013, 82
+  size: 389, 533
+  orig: 389, 691
+  offset: 0, 92
+  index: -1
+Flame_Effect/bw_vfx_b_screen_14
+  rotate: false
+  xy: 784, 473
+  size: 389, 540
+  orig: 389, 691
+  offset: 0, 86
+  index: -1
+Flame_Effect/bw_vfx_b_screen_15
+  rotate: true
+  xy: 2, 59
+  size: 389, 557
+  orig: 389, 691
+  offset: 0, 70
+  index: -1
+Flame_Effect/bw_vfx_b_screen_16
+  rotate: false
+  xy: 2, 450
+  size: 389, 563
+  orig: 389, 691
+  offset: 0, 64
+  index: -1
+Flame_Effect/bw_vfx_b_screen_22
+  rotate: false
+  xy: 393, 469
+  size: 389, 544
+  orig: 389, 691
+  offset: 0, 46
+  index: -1
+bw_vfx_f_screen
+  rotate: false
+  xy: 561, 17
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1

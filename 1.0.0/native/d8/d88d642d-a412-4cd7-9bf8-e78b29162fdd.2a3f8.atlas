@@ -1,0 +1,167 @@
+
+jiasu.png
+size: 1259,1237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BigWin_Light_Effect_And_Frames/fs_vfx_a_screen
+  rotate: true
+  xy: 1167, 433
+  size: 270, 90
+  orig: 270, 90
+  offset: 0, 0
+  index: -1
+BigWin_Light_Effect_And_Frames/fs_vfx_c_screen
+  rotate: false
+  xy: 2, 639
+  size: 249, 596
+  orig: 249, 596
+  offset: 0, 0
+  index: -1
+BigWin_Light_Effect_And_Frames/fspin_particle
+  rotate: false
+  xy: 529, 14
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+Fire_Effect/fs_vfx_b_screen_00
+  rotate: false
+  xy: 1130, 705
+  size: 113, 530
+  orig: 243, 648
+  offset: 55, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_01
+  rotate: false
+  xy: 269, 178
+  size: 113, 530
+  orig: 243, 648
+  offset: 55, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_02
+  rotate: false
+  xy: 838, 183
+  size: 107, 525
+  orig: 243, 648
+  offset: 61, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_03
+  rotate: false
+  xy: 384, 178
+  size: 111, 530
+  orig: 243, 648
+  offset: 60, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_04
+  rotate: false
+  xy: 497, 178
+  size: 109, 530
+  orig: 243, 648
+  offset: 62, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_05
+  rotate: false
+  xy: 947, 183
+  size: 107, 525
+  orig: 243, 648
+  offset: 64, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_06
+  rotate: true
+  xy: 693, 77
+  size: 103, 521
+  orig: 243, 648
+  offset: 69, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_07
+  rotate: true
+  xy: 2, 2
+  size: 103, 525
+  orig: 243, 648
+  offset: 70, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_08
+  rotate: false
+  xy: 1056, 182
+  size: 109, 521
+  orig: 243, 648
+  offset: 68, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_09
+  rotate: false
+  xy: 723, 185
+  size: 113, 523
+  orig: 243, 648
+  offset: 65, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_10
+  rotate: false
+  xy: 608, 183
+  size: 113, 525
+  orig: 243, 648
+  offset: 65, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_11
+  rotate: false
+  xy: 1012, 710
+  size: 116, 525
+  orig: 243, 648
+  offset: 63, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_12
+  rotate: false
+  xy: 892, 710
+  size: 118, 525
+  orig: 243, 648
+  offset: 62, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_13
+  rotate: false
+  xy: 518, 710
+  size: 123, 525
+  orig: 243, 648
+  offset: 60, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_14
+  rotate: false
+  xy: 643, 710
+  size: 123, 525
+  orig: 243, 648
+  offset: 60, 65
+  index: -1
+Fire_Effect/fs_vfx_b_screen_15
+  rotate: false
+  xy: 387, 710
+  size: 129, 525
+  orig: 243, 648
+  offset: 57, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_16
+  rotate: false
+  xy: 2, 107
+  size: 133, 530
+  orig: 243, 648
+  offset: 54, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_17
+  rotate: false
+  xy: 137, 107
+  size: 130, 530
+  orig: 243, 648
+  offset: 51, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_18
+  rotate: false
+  xy: 253, 710
+  size: 132, 525
+  orig: 243, 648
+  offset: 50, 64
+  index: -1
+Fire_Effect/fs_vfx_b_screen_19
+  rotate: false
+  xy: 768, 710
+  size: 122, 525
+  orig: 243, 648
+  offset: 49, 64
+  index: -1

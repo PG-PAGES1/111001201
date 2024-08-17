@@ -1,0 +1,167 @@
+
+wildparticle.png
+size: 1352,1064
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild_Diamond_Effect/multi_vfx_b_add_00
+  rotate: false
+  xy: 2, 522
+  size: 330, 188
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_01
+  rotate: false
+  xy: 354, 874
+  size: 330, 188
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_02
+  rotate: false
+  xy: 2, 332
+  size: 330, 188
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_03
+  rotate: false
+  xy: 686, 874
+  size: 330, 188
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_04
+  rotate: false
+  xy: 1018, 874
+  size: 330, 188
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_05
+  rotate: false
+  xy: 354, 684
+  size: 330, 188
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_06
+  rotate: false
+  xy: 686, 684
+  size: 330, 188
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_07
+  rotate: false
+  xy: 1018, 684
+  size: 330, 188
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_08
+  rotate: false
+  xy: 334, 494
+  size: 330, 188
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_09
+  rotate: false
+  xy: 666, 502
+  size: 330, 180
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_10
+  rotate: false
+  xy: 998, 502
+  size: 330, 180
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_11
+  rotate: true
+  xy: 358, 8
+  size: 330, 180
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_12
+  rotate: true
+  xy: 540, 8
+  size: 330, 180
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_13
+  rotate: false
+  xy: 722, 320
+  size: 330, 180
+  orig: 330, 280
+  offset: 0, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_14
+  rotate: true
+  xy: 2, 2
+  size: 328, 176
+  orig: 330, 280
+  offset: 1, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_15
+  rotate: true
+  xy: 180, 2
+  size: 328, 176
+  orig: 330, 280
+  offset: 2, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_16
+  rotate: false
+  xy: 722, 148
+  size: 320, 170
+  orig: 330, 280
+  offset: 6, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_17
+  rotate: false
+  xy: 1044, 94
+  size: 306, 164
+  orig: 330, 280
+  offset: 12, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_18
+  rotate: false
+  xy: 334, 340
+  size: 278, 152
+  orig: 330, 280
+  offset: 27, 76
+  index: -1
+Wild_Diamond_Effect/multi_vfx_b_add_19
+  rotate: false
+  xy: 334, 708
+  size: 3, 2
+  orig: 330, 280
+  offset: 0, 278
+  index: -1
+dasdw
+  rotate: false
+  xy: 722, 22
+  size: 125, 124
+  orig: 138, 138
+  offset: 6, 7
+  index: -1
+wild_vfx_b_screen
+  rotate: false
+  xy: 1054, 260
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+wild_vfx_c_add
+  rotate: false
+  xy: 2, 712
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
